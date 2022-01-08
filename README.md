@@ -1,4 +1,3 @@
-# Code from:
+An NFT generator repo to generate a list of rare coins
 
-https://github.com/HashLips/generative-art-node
-
+Code from: https://github.com/HashLips/generative-art-node with changes from Shaban Gomaa
