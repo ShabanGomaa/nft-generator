@@ -1,0 +1,281 @@
+[
+  {
+    "hash": "011223",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 3
+      }
+    ],
+    "edition": 1,
+    "date": 1641652171300,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "layer1",
+        "name": "2",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "layer2",
+        "name": "3",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011221",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 1
+      }
+    ],
+    "edition": 2,
+    "date": 1641652171530,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "layer1",
+        "name": "2",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "layer2",
+        "name": "1",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011123",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 1
+      },
+      {
+        "2": 3
+      }
+    ],
+    "edition": 3,
+    "date": 1641652171774,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "layer1",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "layer2",
+        "name": "3",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011321",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 3
+      },
+      {
+        "2": 1
+      }
+    ],
+    "edition": 4,
+    "date": 1641652171995,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "layer1",
+        "name": "3",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "layer2",
+        "name": "1",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011223011121",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 3
+      },
+      {
+        "0": 1
+      },
+      {
+        "1": 1
+      },
+      {
+        "2": 1
+      }
+    ],
+    "edition": 5,
+    "date": 1641652172511,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "layer1",
+        "name": "2",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "layer2",
+        "name": "3",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "layer1",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "layer2",
+        "name": "1",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011322",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 3
+      },
+      {
+        "2": 2
+      }
+    ],
+    "edition": 6,
+    "date": 1641652172797,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "layer1",
+        "name": "3",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "layer2",
+        "name": "2",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011222",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 2
+      }
+    ],
+    "edition": 7,
+    "date": 1641652173098,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "background",
+        "name": "1",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "layer1",
+        "name": "2",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "layer2",
+        "name": "2",
+        "rarity": "original"
+      }
+    ]
+  }
+]
